@@ -21,16 +21,19 @@
 .a-propos-image {
   width: 100px;
   object-fit: cover;
+  transition: 0.3s;
+}
+.a-propos-image:hover {
+  width: 110px;
 }
 .a-propos-text {
   transition: 0.3s;
 }
 .a-propos-text:hover {
-  color: #596CD9;
+  color: var(--dl-color-blueish-hightlight3);
   cursor: default;
-}
-.a-propos-text01 {
-  color: #d7d7d9;
+  border-color: var(--dl-color-gray-black);
+  border-width: 0px;
 }
 .a-propos-links-container {
   width: 567px;
