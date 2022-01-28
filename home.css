@@ -184,6 +184,9 @@
     margin-right: var(--dl-space-space-fiveunits);
     margin-bottom: var(--dl-space-space-doubleunit);
     flex-direction: column;
+    border-top: solid;
+    border-top-width: 2px;
+    border-color: var(--dl-color-blueish-hightlight3);
 }
 
 .home-container05 {
