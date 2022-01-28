@@ -125,7 +125,7 @@
 }
 .Footer-Link {
   color: #d7d7d9;
-  font-size: 20px;
+  font-size: 15px;
   font-style: normal;
   transition: 0.3s;
   font-family: Nunito;
@@ -154,10 +154,10 @@
   display: flex;
   align-self: stretch;
   align-items: center;
-  padding-top: 25px;
+  padding-top: 10px;
   padding-left: 48px;
   padding-right: 48px;
-  padding-bottom: 25px;
+  padding-bottom: 10px;
   background-size: auto;
   justify-content: flex-end;
   background-image: url("Assets/Header@4x.png");
