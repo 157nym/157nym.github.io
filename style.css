@@ -30,8 +30,8 @@
     --dl-space-space-doubleunit: 16px;
     --dl-space-space-tripleunit: 24px;
     --dl-color-blueish-highlight1: #4147bfff;
-    --dl-color-blueish-hightlight2: #575ff2ff;
-    --dl-color-blueish-hightlight3: #596cd9ff;
+    --dl-color-blueish-highlight2: #575ff2ff;
+    --dl-color-blueish-highlight3: #596cd9ff;
 }
 
 .teleport-show {
@@ -62,7 +62,7 @@
     font-weight: 500;
     margin-left: 00px;
     padding-top: 10px;
-    border-color: var(--dl-color-blueish-hightlight2);
+    border-color: var(--dl-color-blueish-highlight2);
     border-width: 0px;
     margin-right: 00px;
     padding-left: 30px;
@@ -77,7 +77,7 @@
 }
 
 .button:hover {
-    color: #4147BF;
+    color: var(--dl-color-blueish-highlight3);
     background-color: var(--dl-color-blueish-claire);
     cursor: pointer;
     padding-top: 10px;
@@ -270,6 +270,9 @@
     .footer {
         padding-left: 32px;
         padding-right: 32px;
+    }
+    .Head-Title {
+        visibility: hidden;
     }
 }
 

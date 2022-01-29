@@ -35,7 +35,7 @@
 }
 
 .a-propos-text:hover {
-    color: var(--dl-color-blueish-hightlight3);
+    color: var(--dl-color-blueish-highlight3);
     cursor: default;
     border-color: var(--dl-color-gray-black);
     border-width: 0px;
@@ -155,6 +155,9 @@
     font-size: 3rem;
     font-family: Nunito;
     font-weight: 300;
+    border-bottom: solid;
+    border-bottom-width: 2px;
+    border-color: var(--dl-color-blueish-highlight2);
 }
 
 .a-propos-text08 {
@@ -197,6 +200,7 @@
     .a-propos-hero {
         padding: 48px;
         flex-direction: column;
+        margin-inline: auto;
     }
     .a-propos-image2 {
         width: 100%;
