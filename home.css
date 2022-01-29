@@ -11,6 +11,8 @@
 .home-navbar {
     margin-bottom: 30px;
     background-image: url("Assets/Header@4x.png");
+    background-repeat: repeat-x;
+    height: auto;
 }
 
 .home-container01 {
@@ -511,6 +513,9 @@
     .home-container08 {
         height: auto;
         flex-direction: column;
+    }
+    .home-navbar {
+        background-size: cover;
     }
 }
 
