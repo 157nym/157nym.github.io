@@ -1,5 +1,5 @@
 .a-propos-container {
-    width: auto;
+    width: 100%;
     height: auto;
     display: flex;
     min-height: 100vh;
@@ -10,13 +10,13 @@
 
 .a-propos-navbar {
     margin-bottom: 30px;
-    background-image: url("Assets/Header@4x.png");
+    background-image: url("../Assets/Header@4x.png");
     background-repeat: repeat-x;
     height: auto;
 }
 
 .a-propos-container1 {
-    width: auto;
+    width: 393px;
     height: 100px;
     margin-left: 30px;
     display: flex;
@@ -46,7 +46,7 @@
 }
 
 .a-propos-links-container {
-    width: auto;
+    width: 567px;
     display: flex;
     align-self: center;
     align-items: flex-start;
@@ -74,7 +74,7 @@
 }
 
 .a-propos-image1 {
-    width: auto;
+    width: 100px;
     object-fit: cover;
 }
 
