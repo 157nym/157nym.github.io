@@ -155,7 +155,18 @@
     text-transform: uppercase;
 }
 
+
 .Footer-Link:hover {
+    color: #575FF2;
+    cursor: pointer;
+}
+
+.Link{
+    transition: 0.3s;
+    font-family: Nunito;
+}
+
+.Link:hover {
     color: #575FF2;
     cursor: pointer;
 }
