@@ -220,7 +220,7 @@
     flex-direction: column;
     justify-content: center;
     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.9));
-    ;
+    text-align: center;
 }
 
 .home-container06:hover {
@@ -349,6 +349,7 @@
     color: var(--dl-color-gray-white);
     font-size: 20px;
     text-align: center;
+    width: auto;
 }
 
 .home-gallery-card3 {
