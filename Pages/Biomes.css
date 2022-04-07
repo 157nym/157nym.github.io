@@ -15,7 +15,12 @@
     height: auto;
 }
 
-.Gallery{
+.MainBLock {
+    display: flex;
+    flex-direction: row;
+}
+
+.Gallery {
     border-block: solid;
     border-color: var(--dl-color-blueish-highlight3);
     border-block-width: 2px;
@@ -36,7 +41,7 @@
     width: 30%;
     height: 100%;
     margin-inline: 15px;
-    position:sticky;
+    position: sticky;
     object-fit: cover;
 }
 
