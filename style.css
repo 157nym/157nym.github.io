@@ -85,12 +85,18 @@
 }
 
 .Video {
-    border-top: solid;
-    border-top-width: 2px;
-    border-color: var(--dl-color-blueish-highlight2);
-    padding: 15px;
-    padding-inline: 3%;
-    margin-inline: 3%;
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	height: 0;
+    margin-inline: 4000000px;
+}
+
+.Video iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
 }
 
 .list-item {
@@ -279,6 +285,11 @@
     line-height: 1.22;
     text-transform: none;
     text-decoration: none;
+}
+
+.Video{
+    width: 100%;
+    height: auto;
 }
 
 @media(max-width: 767px) {
