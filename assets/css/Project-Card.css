@@ -1,0 +1,81 @@
+.Project-name {
+  transition-duration: .5s;
+  transition-timing-function: cubic-bezier(.17,.67,.53,.98);
+  opacity: 0;
+  transform: translate(0%,50%);
+  text-align: center;
+  color: white;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.zoom-on-hover:hover .Project-name {
+  opacity: 100;
+  transform: translate(0%);
+}
+
+.Project-desc {
+  transition-duration: .6s;
+  transition-timing-function: cubic-bezier(.17,.67,.53,.98);
+  opacity: 0;
+  transform: translate(0%,50%);
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.zoom-on-hover:hover .Project-desc {
+  opacity: 100%;
+  transform: translate(0%);
+  transition-delay: .1s;
+}
+
+@media (max-width: 780px) {
+  .Cover {
+    display: none;
+  }
+}
+
+@media (max-width: 780px) {
+  p {
+    text-align: center;
+  }
+}
+
+@media (min-width: 780px) {
+  p {
+    text-align: left;
+  }
+}
+
+@media (max-width: 576px) {
+  .image {
+    opacity: 0.70;
+  }
+}
+
+@media (max-width: 576px) {
+  .Project-name.zoom-on-hover {
+    opacity: 100;
+    transform: translate(0%);
+  }
+}
+
+@media (max-width: 576px) {
+  .Project-desc.zoom-on-hover {
+    opacity: 100;
+    transform: translate(0%);
+  }
+}
+
+.spacer {
+  margin: 5em;
+}
+
+@media (min-width: 2000px) {
+  .spacer {
+    margin: 18em;
+  }
+}
+
