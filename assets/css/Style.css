@@ -53,7 +53,7 @@
 
 .pro-card-img {
   transition: .8s ease;
-  background: url("/assets/img/tech/Desert.png") center / cover no-repeat;
+  background: url("../../assets/img/tech/Desert.png") center / cover no-repeat;
   height: 100%;
 }
 
@@ -219,7 +219,7 @@
 .Card_name {
   transition: .3s ease-out;
   transition-delay: .05s;
-  transform: translate(0);
+  transform: translate(0px);
   opacity: 100;
 }
 
@@ -261,12 +261,12 @@
 
 .page-footer {
   margin-top: auto;
-  padding-top: 20px;
-  border-top: 1px solid #ddd;
+  padding-top: 10px;
   text-align: center;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   bottom: 0;
   width: 100%;
+  border: rgba(197,201,210,0);
 }
 
 body {
@@ -275,13 +275,25 @@ body {
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
-  color: var(--bs-body-color);
+  color: var(--bs-white);
   text-align: var(--bs-body-text-align);
-  background-color: var(--bs-body-bg);
+  background-color: #101112;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   display: flex;
   flex-direction: column;
   min-height: 100%;
+}
+
+.special-skill-item {
+  background: var(--bs-border-color-translucent);
+}
+
+.on_hover:hover .card-body {
+  margin-bottom: 10px;
+}
+
+.card.on_hover:hover {
+  margin-bottom: 20px;
 }
 
