@@ -161,7 +161,7 @@
 
 .Pro_Image {
   height: 450px;
-  background: linear-gradient(90deg, #ffffff, #d8534c 17%, #d8534c 83%, rgb(255,255,255) 100%);
+  background: linear-gradient(90deg, rgba(255,255,255,0), #d8534c 17%, #d8534c 83%, rgba(255,255,255,0) 100%);
   display: flex;
   justify-content: center;
   margin-bottom: 30px;
@@ -181,7 +181,7 @@
 
 .SubTitle {
   font-size: 25px;
-  color: rgba(33,37,41,0.62);
+  color: rgba(155,160,166,0.62);
 }
 
 .parallax {
