@@ -16,7 +16,6 @@
   left: 0;
   bottom: 0;
   background-color: #ccc;
-  -webkit-transition: .4s;
   transition: .4s;
   right: 0;
 }
@@ -28,7 +27,6 @@
   width: 26px;
   left: 4px;
   bottom: 4px;
-  -webkit-transition: .4s;
   transition: .4s;
   background-color: #fff;
 }
