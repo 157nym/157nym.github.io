@@ -311,6 +311,14 @@ body {
 
 .gradient a:hover {
   opacity: 100% !important;
-  filter: brightness(10%) sepia(50) saturate(80) hue-rotate(-100deg);
+}
+
+@media (max-width: 992px) {
+  .Langue_Switch {
+    border-left-width: 0px;
+    border-top-width: 2px;
+    padding-block: 0px;
+    padding-left: 0px;
+  }
 }
 
