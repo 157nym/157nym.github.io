@@ -655,6 +655,7 @@ textarea {
   margin-top: 2rem;
   max-width: var(--page-width);
   position: relative;
+  color: var(--dark);
 }
 @media all and (min-width: 80.0625em) and (min-height: 50em) {
   .header {
@@ -672,6 +673,10 @@ textarea {
   margin-right: auto;
   white-space: nowrap;
 }
+.logo:hover{
+  -webkit-transform: scale(1.02);
+          transform: scale(1.02);
+}
 @media all and (max-width: 74.9375em) {
   .logo {
     text-align: center;
@@ -683,6 +688,7 @@ textarea {
      object-fit: contain;
   padding: calc(var(--baseline) * 2) 0;
   width: auto;
+  height: 150px;
 }
 
 .search {

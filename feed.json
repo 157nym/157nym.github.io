@@ -5,6 +5,7 @@
     "home_page_url": "https://157nym.github.io",
     "feed_url": "https://157nym.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://157nym.github.io/media/website/Eyes-Icon-2.png",
     "author": {
         "name": "Ønym"
     },
@@ -24,7 +25,7 @@
                    "3D"
             ],
             "date_published": "2024-06-01T03:11:00+02:00",
-            "date_modified": "2025-06-18T12:06:13+02:00"
+            "date_modified": "2025-06-18T14:39:00+02:00"
         },
         {
             "id": "https://157nym.github.io/kaiser.html",
@@ -42,7 +43,7 @@
                    "Game Dev"
             ],
             "date_published": "2022-04-25T03:56:00+02:00",
-            "date_modified": "2025-06-18T12:01:33+02:00"
+            "date_modified": "2025-06-18T14:39:28+02:00"
         },
         {
             "id": "https://157nym.github.io/biomes.html",
@@ -62,7 +63,7 @@
                    "Game Dev"
             ],
             "date_published": "2022-02-14T10:23:00+01:00",
-            "date_modified": "2025-06-01T03:50:04+02:00"
+            "date_modified": "2025-06-18T14:39:15+02:00"
         },
         {
             "id": "https://157nym.github.io/lunar-view.html",
@@ -95,7 +96,7 @@
                    "Game Dev"
             ],
             "date_published": "2021-05-05T10:20:00+02:00",
-            "date_modified": "2025-06-18T12:02:32+02:00"
+            "date_modified": "2025-06-18T14:38:53+02:00"
         }
     ]
 }
