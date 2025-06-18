@@ -501,7 +501,7 @@
 })();
 
 // Back to top 
-const backToTopButton = document.getElementById("backToTop");
+const backToTopButton = document.getElementById("Aurora_fBtn");
 
 if (backToTopButton) {
     window.addEventListener('scroll', () => {

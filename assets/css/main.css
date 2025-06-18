@@ -1897,15 +1897,15 @@ textarea {
 }
 
 .SoundCloud:hover svg {
-  fill: #fd8235;
+  fill: #ff5500;
 }
 
 .github:hover svg {
-  fill: #fd8235;
+  fill: #5ab9e2;
 }
 
 .bluesky:hover svg {
-  fill: #fd8235;
+  fill: #208bfe;
 }
 
 .facebook:hover svg {
@@ -2097,17 +2097,17 @@ textarea {
     margin-left: auto;
   }
 }
-.footer__social a {
+.Aurora__social a {
   display: inline-block;
   padding: 0 0.75rem;
   vertical-align: middle;
 }
 @media all and (min-width: 56.25em) {
-  .footer__social a {
+  .Aurora__social a {
     padding: 0 0 0 1.5rem;
   }
 }
-.footer__social a > svg {
+.Aurora__social a > svg {
   display: inline-block;
   fill: var(--gray-1);
   height: 0.875rem;
@@ -2116,10 +2116,10 @@ textarea {
   transition: all 0.12s linear 0s;
   width: 0.875rem;
 }
-.footer__social a:hover > svg {
+.Aurora__social a:hover > svg {
   opacity: 1;
 }
-.footer__bttop {
+.Aurora__fBtn {
   background: var(--color);
   border-color: var(--white) !important;
   bottom: calc(var(--baseline) * 5);
@@ -2138,20 +2138,20 @@ textarea {
   display: block !important;
 }
 @media all and (min-width: 56.25em) {
-  .footer__bttop {
+  .Aurora__fBtn {
     bottom: calc(var(--baseline) * 10);
   }
 }
-.footer__bttop:hover {
+.Aurora__fBtn:hover {
   opacity: 1;
 }
-.footer__bttop > svg {
+.Aurora__fBtn > svg {
   fill: var(--white);
   height: 23px;
   margin: 0;
   width: 23px;
 }
-.footer__bttop.is-visible {
+.Aurora__fBtn.is-visible {
   opacity: 1;
   visibility: visible;
   -webkit-transform: translateY(0);
