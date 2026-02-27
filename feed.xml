@@ -3,7 +3,7 @@
     <title>Ønym&#x27;s Portfolio</title>
     <link href="https://157nym.github.io/feed.xml" rel="self" />
     <link href="https://157nym.github.io" />
-    <updated>2025-06-18T14:39:28+02:00</updated>
+    <updated>2026-02-27T01:33:16+01:00</updated>
     <author>
         <name>Ønym</name>
     </author>
@@ -14,14 +14,14 @@
         <author>
             <name>Ønym</name>
         </author>
-        <link href="https://157nym.github.io/3d-school-work.html"/>
-        <id>https://157nym.github.io/3d-school-work.html</id>
+        <link href="https://157nym.github.io/3d-school-work/"/>
+        <id>https://157nym.github.io/3d-school-work/</id>
         <media:content url="https://157nym.github.io/media/posts/6/MicroLab_HQ.png" medium="image" />
             <category term="Shader"/>
             <category term="3D"/>
 
         <updated>2024-06-01T03:11:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://157nym.github.io/media/posts/6/MicroLab_HQ.png" alt="" />
                     During my studies in game design, I also got to try my hands at 3D modelling (in blender, mostly). Here&hellip;
@@ -129,18 +129,18 @@
         <author>
             <name>Ønym</name>
         </author>
-        <link href="https://157nym.github.io/kaiser.html"/>
-        <id>https://157nym.github.io/kaiser.html</id>
+        <link href="https://157nym.github.io/kaiser/"/>
+        <id>https://157nym.github.io/kaiser/</id>
         <media:content url="https://157nym.github.io/media/posts/7/Kaiser-card.png" medium="image" />
             <category term="Sound Design"/>
             <category term="Music"/>
             <category term="Game Dev"/>
 
         <updated>2022-04-25T03:56:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://157nym.github.io/media/posts/7/Kaiser-card.png" alt="" />
-                    Kaiser is a bullet hell game made in just 4 days for the Bullet Hell Game Jam. I made the&hellip;
+                    Kaiser is a bullet hell game made in just 4 days for the Bullet Hell Game Jam. This was by&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -149,8 +149,23 @@
                 
   <p>
     Kaiser is a bullet hell game made in just 4 days for the Bullet Hell Game Jam.
-<br>
-<br>I made the sound design and music for this project. Four days was a real challenge — I’d never worked with such a tight deadline before, so it was an intense but valuable experience. I also pitched in a bit on the programming side to help get things running smoothly.
+  </p>
+
+  <p>
+    
+This was by far the most we had to rush to get a game ready compared to other project for which we had months to work on, or at least a couple weeks. We made a team of 4, and went at it without much expectation on the final product.
+  </p>
+
+  <p>
+    It was too short of a time to cooperate on the programming side, so I went all on music sound design and shaders when I had the time. As it was a bullet game the sound design stayed very simplistic but functional. The composing part on the other end was a real challenge, composing for a given vibe with such a short deadline was something I never did before, and rarely done since then.
+  </p>
+
+  <p>
+    I managed to make a few simple tracks, and linked to our level designer and programmer we had 4 fully functional levels barely on time despite the allowed overtime. It was such an interesting experience, it was a rush yet we all made time to meet in person as much as we could.
+  </p>
+
+  <p>
+    Today I look back at it as a nice memory, and important lesson in scope management.
   </p>
 <div><div class="post__iframe"><iframe loading="lazy" frameborder="0" src="https://itch.io/embed/1501808?bg_color=01070d&amp;fg_color=ffffff&amp;link_color=30cbea&amp;border_color=2b539f" width="552" height="167"><a href="https://observatoire.itch.io/kaiser"  class="extlink extlink-icon-1"  >KAISER by l'Observatoire, LeSelDiscret, Ønym, Quentin "Asakim" Gautier, sneakysunset</a></iframe></div></div>
 <hr class="separator separator--dots" />
@@ -159,10 +174,6 @@
       <img loading="lazy" src="file:///C:/Users/Onym/Documents/Publii/sites/onyms-portfolio/input/media/posts/temp/Kaiser.png" height="1125" width="2000" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="file:///C:/Users/Onym/Documents/Publii/sites/onyms-portfolio/input/media/posts/temp/responsive/Kaiser-xs.png 384w ,file:///C:/Users/Onym/Documents/Publii/sites/onyms-portfolio/input/media/posts/temp/responsive/Kaiser-sm.png 600w ,file:///C:/Users/Onym/Documents/Publii/sites/onyms-portfolio/input/media/posts/temp/responsive/Kaiser-md.png 768w ,file:///C:/Users/Onym/Documents/Publii/sites/onyms-portfolio/input/media/posts/temp/responsive/Kaiser-lg.png 1200w ,file:///C:/Users/Onym/Documents/Publii/sites/onyms-portfolio/input/media/posts/temp/responsive/Kaiser-xl.png 1600w">
       
     </figure>
-
-  <p>
-    
-  </p>
             ]]>
         </content>
     </entry>
@@ -171,8 +182,8 @@
         <author>
             <name>Ønym</name>
         </author>
-        <link href="https://157nym.github.io/biomes.html"/>
-        <id>https://157nym.github.io/biomes.html</id>
+        <link href="https://157nym.github.io/biomes/"/>
+        <id>https://157nym.github.io/biomes/</id>
         <media:content url="https://157nym.github.io/media/posts/3/Biomes_Banner.png" medium="image" />
             <category term="UI"/>
             <category term="Shader"/>
@@ -181,7 +192,7 @@
             <category term="Game Dev"/>
 
         <updated>2022-02-14T10:23:00+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://157nym.github.io/media/posts/3/Biomes_Banner.png" alt="Biomes - Title card" />
                     Biomes is a world building game, where the player can place tiles from various biomes, and watch them merge together&hellip;
@@ -191,14 +202,63 @@
             <![CDATA[
                     <p><img src="https://157nym.github.io/media/posts/3/Biomes_Banner.png" class="type:primaryImage" alt="Biomes - Title card" /></p>
                 
-  <p>
-    <strong>Biomes </strong>is a world building game, where the player can place tiles from various biomes, and watch them merge together to create new ones.<br>
-  </p>
+    <blockquote class="blockquote">
+      <strong>Biomes </strong>is a world building game, where the player can place tiles from various biomes, and watch them merge together to create new ones.<br>
+    </blockquote>
 <div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/UNeRRH_yFk8?si=E0MQlGWs9UzcZeoi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div></div>
 
+    <h2 id="design">
+      Design
+    </h2>
+
   <p>
-    In this project, I did most of the programming, especially the grid part and the tile management.
-<br>I also did the music and the sound design, except for the ambient sounds, all the sounds were made using Vital synthesizer.
+    This was my very first complete school project, the assignment was to build a toy in teams. My 3 teammates and I were inspired by world building and semi procedural generation. The Original plan was to give the player a handful of tiles type to place, and have them interact with each other on their own.
+  </p>
+
+  <p>
+    The main idea is the following, multiple tiles of the same type placed next to each other form a biome, two biomes that share a border will try to eat away at the other, with a power balance determined by their sizes. And finally everytime a biome gains on another, a new tile type as a chance of being formed and will itself try to expand along the border.<br>
+  </p>
+
+  <p>
+    During the early talk the main elements were already there, but we had an issue to deal with to estimate the time cost of such a production. How many biomes should the player be able to place? Can any biomes combinations produce a new one? Should they be entirely procedural or handmade?<br><br>The answer to these question would determine the scope of the whole project, and considering it was our first time working with unity, and together, we opted for something we could manage.<br><br>There would be two types of biomes:
+  </p>
+
+  <ul>
+    <li><span style="font-size: 1em;">Primary biomes, which the player can place.</span></li><li><span style="font-size: 1em;">Secondary biomes, which can only be generated by the biomes movements</span></li>
+  </ul>
+<hr class="separator separator--dots" />
+
+  <p>
+    The whole project was a surprisingly smooth ride during which we often add more time than expected to invest in polishing our experience, and with feedback from our playtest, drafting a feature : Prop hunting.
+  </p>
+
+  <p>
+    Every biome spawn a tile with a set of 0-7 props, one per edge and one on the center of the tile. But some biomes had a special big prop, taking the whole tile to itself. We wanted to add a collection feature by finding these props, and managing to encircle them entirely of tile of their biome. Unfortunately the deadline hit before it could see the day.
+  </p>
+
+    <figure class="post__image post__image--wide">
+      <img loading="lazy" src="https://157nym.github.io/media/posts/3/Big_Prop.png" height="725" width="993" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://157nym.github.io/media/posts/3/responsive/Big_Prop-xs.png 384w ,https://157nym.github.io/media/posts/3/responsive/Big_Prop-sm.png 600w ,https://157nym.github.io/media/posts/3/responsive/Big_Prop-md.png 768w ,https://157nym.github.io/media/posts/3/responsive/Big_Prop-lg.png 1200w ,https://157nym.github.io/media/posts/3/responsive/Big_Prop-xl.png 1600w">
+      
+    </figure>
+
+    <h2 id="development">
+      Development
+    </h2>
+
+  <p>
+    Being a small team, and for personal reason down to 3 members, we decided to take on the tasks we were the most comfortable with. For me it was programming and sound design. The design being drafter quickly I could make an early prototype of the concept itself with simple coloured hexagons.
+  </p>
+
+  <p>
+    Despite being formed in a grid, this game does not really run on one. Each tile spawn points around itself (here visualised in thin transparent tiles). Each of those check it can spawn in the first place (if there is a tile or not) with collision, so when a tile is placed or destroyed it will try and spawn neighbouring spawn points, as well as updating it's neighbour if any are found.
+  </p>
+
+  <p>
+    Tile hold a reference to a dynamically made object representing the biome, which is responsible for all it's tiles, know about it's borders and the neighbouring biomes. So in the end a single manager perform checks from a handful entities which reduce the workload tremendously.
+  </p>
+
+  <p>
+    However I'm aware this method isn't perfect. It restrain the player to placing tile already next to another (which from our design we judged fine). But if I had to redo it today, a simple but proper grid wouldn't be hard to implement to communicate between tiles with coordinate only. However the gist of biome management would stay the same, with tiles interacting with tiles and belonging in a biome, and biomes interacting with neighbour biomes.
   </p>
 
   <div  class="gallery-wrapper gallery-wrapper--wide">
@@ -237,9 +297,39 @@
     </h2>
 
   <p>
-    All the sounds were integrated using Fmod.
-<br>The most tricky part was the music which is semi-random.
-<br>The composition is divided into a few loops which are played one after the other following rules, and playing a "Pause" track every X loops played.
+    Our sound design was very quick to make, as most of the game is actually UI. This means I had some time to think about dynamic sound and music.
+  </p>
+
+  <p>
+    Since our camera allowed to zoom in and out to see the landscape better, I though "let's make two different soundscapes, and mix between them with our zoom".
+  </p>
+
+    <h5 id="close-in-onto-nature">
+      Close in onto nature
+    </h5>
+
+  <p>
+    When the camera is close to the ground, and looking forward at the horizon, you should hear the sound of the nature below you. To do this, a single FMod event plays with parameters (slider between 0 - 1) for different soundscape like wind, water, sand, birds, rumble etc..<br><br>Each biome have data describing what value these parameters should be to make a coherent soudscape. Tiles in view of the camera in a chosen area will then be sampled and parameters value averaged to be applied to the instance.
+  </p>
+
+  <p>
+    The forest, as an example, would have a soft wind (.25), lot of birds (1) and nothing else.
+  </p>
+
+    <h5 id="aerial-ambient-view">
+      Aerial ambient view
+    </h5>
+
+  <p>
+    The zoomed out view is the one player stays in most of the time as it makes getting a good view of the map easier. This is where the music lives, and to give it a twist, the music is composed of tiles as well.
+  </p>
+
+  <p>
+    I composed the music to be made of 6 segment, and about 8 transitions. Using a counter and some programming instrument, I count how many segment have been played to change the odd of the next one, and once a certain threshold have been reached the music will make it's way to an especially long and calm segment.
+  </p>
+
+  <p>
+    The goal was to alternate between a soft yet present music that doesn't repeat too much no matter how many loop, and break it with spaced out ambient music to cool the ears down.
   </p>
 
   <div  class="gallery-wrapper gallery-wrapper--full">
@@ -270,13 +360,13 @@
         <author>
             <name>Ønym</name>
         </author>
-        <link href="https://157nym.github.io/lunar-view.html"/>
-        <id>https://157nym.github.io/lunar-view.html</id>
+        <link href="https://157nym.github.io/lunar-view/"/>
+        <id>https://157nym.github.io/lunar-view/</id>
         <media:content url="https://157nym.github.io/media/posts/5/Moon-Neon-VHS.jpg" medium="image" />
             <category term="Music"/>
 
         <updated>2021-09-13T02:57:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://157nym.github.io/media/posts/5/Moon-Neon-VHS.jpg" alt="Lunar view - Cover" />
                     Lunar View is a synthwave themed instrumental album that I made over a summer as a challenge to myself. The&hellip;
@@ -306,14 +396,14 @@
         <author>
             <name>Ønym</name>
         </author>
-        <link href="https://157nym.github.io/itpr.html"/>
-        <id>https://157nym.github.io/itpr.html</id>
+        <link href="https://157nym.github.io/itpr/"/>
+        <id>https://157nym.github.io/itpr/</id>
         <media:content url="https://157nym.github.io/media/posts/8/ITPR.png" medium="image" />
             <category term="Programming"/>
             <category term="Game Dev"/>
 
         <updated>2021-05-05T10:20:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://157nym.github.io/media/posts/8/ITPR.png" alt="" />
                     I.P.T.R is a solo game I made in just 3 days during my first year, for a Game Jam hosted&hellip;
@@ -326,11 +416,13 @@
   <p>
     I.P.T.R is a solo game I made in just 3 days during my first year, for a Game Jam hosted by ICAN.
 <br>
-<br>The theme was Space Opera, and I handled everything — from game design and visuals to programming.
+<br>The theme was Space Opera, and I handled everything from game design and visuals to programming.
 <br>
-<br>Since it was my very first jam ever, and as a first year just starting out, things went south pretty quickly. It was a fun learning experience, but the game definitely didn’t get close to being playable.
-<br>
-<br>I was still getting familiar with Unity, so this project helped me understand the basics of the engine and start working with C#.
+<br>Since it was my very first jam ever, and as a first year just starting out, things went south pretty quickly. I was missing a lot of experience to progress fast enough on my programming, my scope was way off and my features lacked a lot of polish which on my own I didn't had the time to work on.
+  </p>
+
+  <p>
+    Despite the short chaos, it was a fun learning experience. But the game definitely didn’t get close to being playable. Maybe it could be a nice prototype for a navigation map.
   </p>
 <div><div class="post__iframe"><iframe loading="lazy" frameborder="0" src="https://itch.io/embed/1028837?bg_color=000000&amp;fg_color=ffffff&amp;link_color=875bfa&amp;border_color=353168" width="552" height="167"><a href="https://0nym.itch.io/iptr"  class="extlink extlink-icon-1"  >InterPlanetary Trade Route by Ønym</a></iframe></div></div>
             ]]>
